@@ -67,14 +67,12 @@ s=s1-s2
 subplot(3,1,3)
 plot(t,s)
 ~~~
+
 Output Graph
 <img width="1912" height="992" alt="image" src="https://github.com/user-attachments/assets/b6228673-69f1-411b-935b-2e6d9bf2c1cf" />
 
-
-
 Tablular Column
 ![WhatsApp Image 2025-10-16 at 11 35 31_4b55952f](https://github.com/user-attachments/assets/6ffc766f-2384-4177-b073-8e2ade60ed38)
-
 
 Result
 
